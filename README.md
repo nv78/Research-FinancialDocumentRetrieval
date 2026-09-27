@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-FinancialDocumentRetrieval](https://github.com/anote-ai/Research-FinancialDocumentRetrieval).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # FinDocRetrieval
 
 > **Research question:** Do chunking strategy, reranking, and query expansion improve QA accuracy on financial filings (10-K, 10-Q, earnings transcripts) — and at what cost?
